@@ -1,1 +1,4 @@
 settings.py
+
+uploads
+db.sqlite3
